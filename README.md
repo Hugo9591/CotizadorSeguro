@@ -24,6 +24,7 @@ para calcular el precio con los incrementos y descuentos especificos.
     y aplicando un descuento del 3% por cada año de antiguedad del vehiculo.
 
 ## Tecnologias
+- HTML: Estructura Principal
 - JavaScript: Para la logica del calculo del seguro mediante el uso de prototypes
 - Tailwind.css: Para diseño de la interfaz de forma rapida y eficiente
 - Custom.css: Estilos mas personalizados
